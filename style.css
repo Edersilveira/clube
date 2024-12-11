@@ -11,6 +11,11 @@ header {
     padding: 10px 0;
 }
 
+img {
+    width: 80px;
+    height: 80px;
+}
+
 nav ul {
     list-style: none;
     margin: 0;
